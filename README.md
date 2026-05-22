@@ -15,13 +15,14 @@ I have hands-on experience in transforming data into actionable insights using P
 - 📊 Forecasting & Statistical Modeling
 
 ## 🛠️ Tech Stack & Skills
-💻 **Programming & Query Languages:** Python, SQL, R, Google Cloud
+💻 **Programming & Query Languages:** Python, SQL, R  
 📊 **Data Analytics & Visualization:** Power BI, Looker Studio, R Shiny, Matplotlib, Microsoft Excel  
 🤖 **Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Logistic Regression, Classification, Clustering, Forecasting  
 📐 **Statistics & Modeling:** Regression, Probability, Optimization, Time Series Forecasting, Operations Research  
 🧰 **Tools:** GitHub, Google Colab, Jupyter Notebook, SPSS, Minitab, Microsoft Office 
 
 ## 📫 Connect with Me
-📧 Email: bagasmadyatma29@gmail.com
-💼 LinkedIn: [Bagas Mujaddid Adyatma](https://www.linkedin.com/in/bagas-m-adyatma-746aa0220/)
+
+📧 Email: bagasmadyatma29@gmail.com  
+💼 LinkedIn: [Bagas Mujaddid Adyatma](https://www.linkedin.com/in/bagas-m-adyatma-746aa0220/)  
 🌐 Portfolio: [My Portfolio](https://bagasmadyatma-portofolio.my.canva.site/bagas-m-adyatma-portofolio)
